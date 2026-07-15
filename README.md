@@ -71,17 +71,9 @@
 
 ---
 
-## 📊 GitHub Analytics (Auto-Updated)
+📊 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashri684&layout=compact&theme=tokyonight" /> </p>
 
 ## 🚀 What I Do
 
@@ -94,7 +86,7 @@
 
 ## 📫 Connect
 
-📧 [your-email@example.com](mailto:your-email@example.com)
+📧 [devashrirewanwar@gamil.com](mailto:your-email@example.com)
 
 ---
 
