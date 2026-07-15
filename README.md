@@ -15,62 +15,22 @@ Java Backend Developer | Spring Boot | Microservices | AI & IoT Enthusiast
 
 ---
 
+
 ## 🛠️ Skills
 
-**Languages**
-- Java
-- JavaScript
+**Java | Spring Boot | Spring MVC | Spring Data JPA | Hibernate | Microservices | REST APIs | Spring AI**  
 
-**Backend**
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Microservices
-- Spring AI
+**JavaScript | React.js | HTML | CSS | MySQL | DBMS**  
 
-**Frontend**
-- HTML
-- CSS
-- React.js
-
-**Database**
-- MySQL
-- DBMS
-
-**Cloud & Tools**
-- AWS IoT Core
-- Lambda
-- DynamoDB
-- API Gateway
-- EC2
-- Git & GitHub
-- Maven
-- Postman
+**AWS IoT Core | Lambda | DynamoDB | API Gateway | EC2 | Git | GitHub | Maven | Postman**
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 AI Expense Tracker
-Full-stack expense management application using **Spring Boot, React, MySQL, and AI-based insights**.
-
-### 🔹 Employee Management System
-Backend application built with **Spring Boot, Spring Data JPA, Hibernate, and MySQL**.
-
-### 🔹 Solar Panel Monitoring System
-IoT-based monitoring system using **ESP32 and AWS IoT services**.
-
-### 🔹 Agricultural Disease Detection Bot
-AI-based crop disease detection system using **Raspberry Pi and YOLOv8**.
-
----
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn Link
-- Email: Your Email
+- LinkedIn: https://www.linkedin.com/in/devashrirewanwar/
+- Email: devashrirewanwar@gmail.com
 
 ---
 
